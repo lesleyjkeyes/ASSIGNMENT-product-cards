@@ -1,0 +1,30 @@
+
+h2 {
+  border: solid lightblue 1px;
+  text-align: center;
+}
+
+img{
+  align-items: center;
+}
+
+.card-text{
+  justify-content: left;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.availability{
+  color: yellow;
+  background-color: darkgray;
+}
+
+.card{
+  margin: 1rem;
+}
+
+.container {
+  display: flex;
+}
